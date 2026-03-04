@@ -1,5 +1,6 @@
 # Desenvolvimento de Jogos Digitais (Univassouras)
 
+
 Repositório da disciplina **Desenvolvimento de Jogos Digitais**, com materiais e projetos criados no **GDevelop** durante as aulas do professor **Fábio**.
 
 ## 🎯 Objetivo deste repositório
@@ -11,9 +12,11 @@ Este repositório foi organizado para:
 - Acompanhar a evolução técnica ao longo da disciplina;
 - Manter tudo versionado para facilitar revisão e continuidade.
 
+
 ## 🧩 Ferramenta utilizada
 
 - [GDevelop 5](https://gdevelop.io/) (engine no-code/low-code para desenvolvimento de jogos 2D)
+
 
 ## 📚 Organização dos estudos
 
@@ -25,6 +28,7 @@ Atualmente, os estudos estão divididos em dois blocos:
 > Os 4 jogos extras são voltados para reforço de fundamentos (movimentação, eventos, lógica e estrutura de cenas), servindo como base para evoluir os projetos da disciplina.
 
 ## 📁 Estrutura atual do repositório
+
 
 ```text
 .
@@ -38,6 +42,7 @@ Atualmente, os estudos estão divididos em dois blocos:
         └── NewSprite2.png
 ```
 
+
 ### Sobre os arquivos atuais
 
 - **aula20260303/aula20260303.json**: arquivo principal do projeto GDevelop da aula.
@@ -49,10 +54,12 @@ Atualmente, os estudos estão divididos em dois blocos:
 
 No projeto da aula de **03/03/2026**, já foram implementados:
 
+
 - Cena principal com personagem e plataformas;
 - Objeto **Player** com comportamento de plataforma (movimentação e pulo);
 - Objeto **Plataforma** com comportamento de plataforma sólida;
 - Câmera suave seguindo o jogador (extensão Smooth Camera);
+
 - Evento para virar o sprite para esquerda/direita conforme tecla pressionada.
 
 ## 🧪 Estudos extras (tutoriais GDevelop)
